@@ -3,7 +3,7 @@
 ### 🤍 🟥🟨🟦 🤍
 
 
-![Mun94's github stats](https://github-readme-stats.vercel.app/api?username=Mun94&show_icons=true&title_color=ea5455&icon_color=79ff97&text_color=07689f&bg_color=ffc93c)
+![Mun94's github stats](https://github-readme-stats.vercel.app/api?username=Mun94&show_icons=true&title_color=ea5455&icon_color=1a1a2e&text_color=07689f&bg_color=ffc93c)
 
 
 
