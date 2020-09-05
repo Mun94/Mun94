@@ -2,10 +2,10 @@
 # Mun Seong Woo
 [![Gmail Badge](https://img.shields.io/badge/-seongwoo720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seongwoo720@gmail.com)](mailto:seongwoo720@gmail.com)
 
-### Hello world!&nbsp;<img src="https://thumbs.gfycat.com/BareHeavenlyBluefintuna-size_restricted.gif" width="35px">🟥🟨🟦
+### Hello world!&nbsp;🟥🟨🟦
 
 
-![Mun94's github stats](https://github-readme-stats.vercel.app/api?username=Mun94&show_icons=true&title_color=ff0320&icon_color=79ff97&text_color=039eff&bg_color=ffaa00)
+![Mun94's github stats](https://github-readme-stats.vercel.app/api?username=Mun94&show_icons=true&title_color=ff0320&icon_color=79ff97&text_color=242424&bg_color=f7f2f3)
 
 
 
