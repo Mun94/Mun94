@@ -5,7 +5,7 @@
 ### Hello world!&nbsp;🟥🟨🟦
 
 
-![Mun94's github stats](https://github-readme-stats.vercel.app/api?username=Mun94&show_icons=true&title_color=ff0320&icon_color=79ff97&text_color=242424&bg_color=f7f2f3)
+![Mun94's github stats](https://github-readme-stats.vercel.app/api?username=Mun94&show_icons=true&title_color=b3b340&icon_color=79ff97&text_color=242424&bg_color=f7f2f3)
 
 
 
