@@ -1,5 +1,3 @@
-
-# Mun Seong Woo
 [![Gmail Badge](https://img.shields.io/badge/-seongwoo720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seongwoo720@gmail.com)](mailto:seongwoo720@gmail.com)
 
 ### 🟥🟨🟦
