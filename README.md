@@ -1,7 +1,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-seongwoo720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seongwoo720@gmail.com)](mailto:seongwoo720@gmail.com)
 
-### 🟥🟨🟦 ()
-
+### 🤍 🟥🟨🟦 🤍
 
 
 ![Mun94's github stats](https://github-readme-stats.vercel.app/api?username=Mun94&show_icons=true&title_color=f70a0a&icon_color=79ff97&text_color=242424&bg_color=f7f2f3)
