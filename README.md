@@ -1,4 +1,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-seongwoo720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seongwoo720@gmail.com)](mailto:seongwoo720@gmail.com)
+<a href="https://1drv.ms/u/s!AgLYazaFR-l8kkdyoN0hE_vqNcIh?e=Xn1RGP">One Note</a>
 
 ### 🤍 🟥🟨🟦 🤍
 
