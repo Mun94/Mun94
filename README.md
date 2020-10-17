@@ -1,6 +1,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-seongwoo720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seongwoo720@gmail.com)](mailto:seongwoo720@gmail.com)
 
-리액트를 다루는 기술 <a href="https://github.com/Mun94/react-blog-app" target='_blank'>Repository</a> <a href="https://1drv.ms/u/s!AgLYazaFR-l8lARj7nXuJZQ9PB7o?e=Ozxcau" target='_blank'>One Note</a>   
+리액트를 다루는 기술 <a href="https://github.com/Mun94/react-blog-app">Repository</a>/<a href="https://1drv.ms/u/s!AgLYazaFR-l8lARj7nXuJZQ9PB7o?e=Ozxcau">One Note</a>   
    
 
 ### 🤍 🟥🟨🟦 🤍
