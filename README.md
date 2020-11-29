@@ -9,7 +9,6 @@ Node.js 교과서 <a href="https://github.com/Mun94/Nodejs-book">Repository</a>/
 
 ## <a href="https://mun94.github.io/portfolio_app/">포트폴리오</a>
 
-### 🤍 🟥🟨🟦 🤍
 
 
 ![Mun94's github stats](https://github-readme-stats.vercel.app/api?username=Mun94&show_icons=true&title_color=C1292E&icon_color=1a1a2e&text_color=235789&bg_color=FFF000)
