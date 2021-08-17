@@ -2,13 +2,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-seongwoo720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seongwoo720@gmail.com)](mailto:seongwoo720@gmail.com)
 
 VUE.JS <a href="https://1drv.ms/u/s!AgLYazaFR-l8g98Li6m4-sm-v9UU7Q?e=cJcE4j">One Note</a>   
-CANVAS <a href="https://1drv.ms/u/s!AgLYazaFR-l8i6dyPAvawvwn6_FrYQ?e=yHEJ3q">One Note</a>   
+CANVAS <a href="https://1drv.ms/u/s!AgLYazaFR-l8i6dyPAvawvwn6_FrYQ?e=yHEJ3q">One Note</a>/<a href="https://github.com/Mun94/Canvas_tutorial">Repository</a>      
 
-REACT.JS <a href="https://github.com/Mun94/react-blog-app">Repository</a>/<a href="https://1drv.ms/u/s!AgLYazaFR-l8lARj7nXuJZQ9PB7o?e=Ozxcau">One Note</a>   
+REACT.JS <a href="https://1drv.ms/u/s!AgLYazaFR-l8lARj7nXuJZQ9PB7o?e=Ozxcau">One Note</a>/<a href="https://github.com/Mun94/react-blog-app">Repository</a>      
 NEXT.JS <a href="https://1drv.ms/u/s!AgLYazaFR-l8g95Yu0qGMaF8bpi5-w?e=6jaqg2">One Note</a>   
 MOBX, MST <a href="https://1drv.ms/u/s!AgLYazaFR-l8g95nfkULg0iMY065HQ?e=7zZNRx">One Note</a>   
-NODE.JS <a href="https://github.com/Mun94/Nodejs-book">Repository</a>/<a href="https://1drv.ms/u/s!AgLYazaFR-l8g9NjrjU8CqerJw8asA?e=cRJ1bB">One Note</a>   
-TYPE/JAVASCRIPT(+ PS, JS200제) <a href="https://github.com/Mun94/JS200-book">Repository</a>/<a href="https://1drv.ms/u/s!AgLYazaFR-l8kjeydXgRl5K0a6Ua?e=ayc5sp">One Note</a>   
+NODE.JS <a href="https://1drv.ms/u/s!AgLYazaFR-l8g9NjrjU8CqerJw8asA?e=cRJ1bB">One Note</a>/<a href="https://github.com/Mun94/Nodejs-book">Repository</a>      
+TYPE/JAVASCRIPT(+ PS, JS200제) <a href="https://1drv.ms/u/s!AgLYazaFR-l8kjeydXgRl5K0a6Ua?e=ayc5sp">One Note</a>/<a href="https://github.com/Mun94/JS200-book">Repository</a>   
 모던자바스크립트 <a href="https://github.com/Mun94/Interview-QnA">Repository</a>       
 
 노마드 코더 <a href="https://1drv.ms/u/s!AgLYazaFR-l8kkdyoN0hE_vqNcIh?e=0lSL7G">One Note</a>   
