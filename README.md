@@ -2,6 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-seongwoo720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seongwoo720@gmail.com)](mailto:seongwoo720@gmail.com)
 
 VUE.JS <a href="https://1drv.ms/u/s!AgLYazaFR-l8g98Li6m4-sm-v9UU7Q?e=cJcE4j">One Note</a>   
+Canvas <a href="https://1drv.ms/u/s!AgLYazaFR-l8i6dyPAvawvwn6_FrYQ?e=yHEJ3q">One Note</a>   
 
 REACT.JS <a href="https://github.com/Mun94/react-blog-app">Repository</a>/<a href="https://1drv.ms/u/s!AgLYazaFR-l8lARj7nXuJZQ9PB7o?e=Ozxcau">One Note</a>   
 NEXT.JS <a href="https://1drv.ms/u/s!AgLYazaFR-l8g95Yu0qGMaF8bpi5-w?e=6jaqg2">One Note</a>   
@@ -29,7 +30,7 @@ TYPE/JAVASCRIPT(+ PS) <a href="https://1drv.ms/u/s!AgLYazaFR-l8kjeydXgRl5K0a6Ua?
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/canvas/canvas.png"></code>
 
 
 
