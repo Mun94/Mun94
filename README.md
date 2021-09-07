@@ -1,7 +1,7 @@
 [![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-square&logo=Blogger&logoColor=white)](https://blog.naver.com/honm94287)
 [![Gmail Badge](https://img.shields.io/badge/-seongwoo720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seongwoo720@gmail.com)](mailto:seongwoo720@gmail.com)
 
-VUE.JS <a href="https://1drv.ms/u/s!AgLYazaFR-l8g98Li6m4-sm-v9UU7Q?e=cJcE4j">One Note</a>   
+VUE.JS <a href="https://1drv.ms/u/s!AgLYazaFR-l8g98Li6m4-sm-v9UU7Q?e=cJcE4j">One Note</a>/<a href="https://github.com/Mun94/vuejs-tutorial">Repository</a>       
 CANVAS <a href="https://1drv.ms/u/s!AgLYazaFR-l8i6dyPAvawvwn6_FrYQ?e=yHEJ3q">One Note</a>/<a href="https://github.com/Mun94/Canvas_tutorial">Repository</a>      
 
 REACT.JS <a href="https://1drv.ms/u/s!AgLYazaFR-l8lARj7nXuJZQ9PB7o?e=Ozxcau">One Note</a>/<a href="https://github.com/Mun94/react-blog-app">Repository</a>      
